@@ -7,6 +7,7 @@
 1. [Buscar Palabra](#buscar-palabra)
 2. [Imprimir Lista Inversa](#imprimir-lista-inversa)
 3. [Buscar Nombre](#buscar-nombre)
+4. [Fin del Programa](#fin-del-programa)
 
 ---
 
@@ -26,4 +27,10 @@ Se pasara por parametro una lista, e imprimirá en forma inversa los valores de 
 
 ### Buscar Nombre 
 
-El prograba va a preguntar infinitamente por el nombre. Tu (el usuario), lo que debes hacer es, cuando el usuario escriba un valor, comprobar si este está en la lista de nombres, por medio de la funcion [Buscar Palabra](#buscar-palabra). Si este esxiste mostrara por pantalla la edad de esa persona. 
+El prograba va a preguntar infinitamente por el nombre. Tu (el usuario), lo que debes hacer es, cuando el usuario escriba un valor, comprobar si este está en la lista de nombres, por medio de la funcion [Buscar Palabra](#buscar-palabra). Si este esxiste mostrara por pantalla la edad de esa persona. Y por ultimo si el usuario escribe un nombre que no existe el programa se lo hara saber. 
+
+---
+
+### Fin del Programa 
+
+Cuando el usuario escriba el comando *exit* el programa finalizará.
