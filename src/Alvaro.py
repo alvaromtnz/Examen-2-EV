@@ -1,9 +1,15 @@
 def buscarPalabra(objetivo, palabras):
+    for y in palabra:
+        if y == objetivo:
+            return True
+    return False
 
 
 
 def imprimirListaInversa(lista):
-    
+    for valor in lista:
+
+        print(imprimirListaInversa(nombres))
 
 
 
@@ -15,9 +21,3 @@ edades = {
     "Zutano": 50,
     "Perantano": 75
 }
-
-print(buscarPalabra("Se ha buscado una palabra"))
-
-for nombres in nombres: 
-    
-

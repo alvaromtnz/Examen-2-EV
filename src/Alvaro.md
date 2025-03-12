@@ -6,6 +6,7 @@
 
 1. [Buscar Palabra](#buscar-palabra)
 2. [Imprimir Lista Inversa](#imprimir-lista-inversa)
+3. [Buscar Nombre](#buscar-nombre)
 
 ---
 
@@ -20,3 +21,9 @@ Hay que definir una función la cual su nombre sea *buscarPalabra*, y se le pasa
 ### Imprimir Lista Inversa 
 
 Se pasara por parametro una lista, e imprimirá en forma inversa los valores de dicha lista. Al finalizar, aplica un salto de línea. 
+
+--- 
+
+### Buscar Nombre 
+
+El prograba va a preguntar infinitamente por el nombre. Tu (el usuario), lo que debes hacer es, cuando el usuario escriba un valor, comprobar si este está en la lista de nombres, por medio de la funcion [Buscar Palabra](#buscar-palabra). Si este esxiste mostrara por pantalla la edad de esa persona. 
