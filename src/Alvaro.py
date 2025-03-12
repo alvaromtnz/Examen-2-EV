@@ -8,7 +8,7 @@ def buscarPalabra(objetivo, palabras):
 
 def imprimirListaInversa(lista):
     for valor in lista:
-
+        
         print(imprimirListaInversa(nombres))
 
 
